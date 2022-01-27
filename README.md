@@ -1,6 +1,6 @@
 # Volleyball-Project
 
-# In Progress
+## In Progress
 
 A project to determine whether height is an impactful trait for professional Volleyball Players.
 
