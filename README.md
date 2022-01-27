@@ -1,8 +1,8 @@
 # Volleyball-Project
 
 ## In Progress
-
-A project to determine whether height is an impactful trait for professional Volleyball Players.
+**
+A project to determine whether height is an impactful trait for professional Volleyball Players.**
 
 Data is collected by scraping the public wikipedia pages of players to obtain their Height, Position, Spike and Block (reach). Data is also scraped from official FIVB tables that 
 display the points vs attempts of each player. A hypothesis test is used to determine whether taller players are statistically probable to have (potentially) higher scoring ratio's
