@@ -10,6 +10,6 @@ than the average player.
 
 
 Notes:
-The data is there to calculate the vertical jumps of each plyer. This could allow for a representation of skill vs genetic/physicality in Volleyball.
+The data is also there to calculate the vertical jumps of each player. This could allow for a representation of skill vs genetic/physicality in Volleyball.
 However, other aspects come into play such as the biomechanics of the human body e.g. taller players will have a lower vertical jump than shorter players but will be faster in
 reaching their max point.
